@@ -1,5 +1,4 @@
-# Cборный проект №2
-(https://github.com/Igaime/Practicum/blob/main/10.%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B8%CC%86%202.ipynb)
+# Cборный проект №2 (https://github.com/Igaime/Practicum/blob/main/10.%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B8%CC%86%202.ipynb)
 
 Инструменты: `A/B-тестирование` `Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `Scipy`
 Вы работаете в стартапе, который продаёт продукты питания. Нужно разобраться, как ведут себя пользователи вашего мобильного приложения.
