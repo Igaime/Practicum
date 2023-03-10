@@ -21,5 +21,16 @@
 - Самые популярные жанры: Shooter, Sports, Platform, Role-Playin, Racing;
 
 - Составили портрет пользователей по регионам. В целом все регионы похожи, только Япония заметно отличается по поведению:
-    - fdvdvfdvd
-        - vfdvddfv
+    - Популярные платформы:
+        - Европа. PS4, PS3, X360, XOne, 3DS;
+        - Япония. 3DS, PS3, PSV, PS4, WiiU;
+        - Северная Америка. X360, PS4, PS3, XOne, 3DS;
+        - Другие регионы. PS4, PS3, X360, XOne, 3DS.
+    - Популярные жанры:
+        - Европа. Action, Shooter, Sport, Role-playing, Racing;
+        - Япония. Role-playing, Action, Misc, Simulation, Fighting;
+        - Северная Америка. Action, Shooter, Sport, Role-playing, Misc;
+        - Другие регоины. Action, Shooter, Sport, Role-playing, Misc;
+- Проверка гипотез:
+    - Гипотеза №1. Не получилось отвергнуть нулевую гипотезу.
+    - Гипотеза №2. Нулевая гипотеза отвергнута.
